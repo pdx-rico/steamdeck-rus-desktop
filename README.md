@@ -8,7 +8,7 @@
 
 ## Установка
 
-1. Правой кнопкой на ссылку [RusDesk.desktop](https://raw.githubusercontent.com/pdx-rico/hogwarts-steamdeck-fix/main/HogwartsFix.desktop)
+1. Правой кнопкой на ссылку [RusDesk.desktop](https://raw.githubusercontent.com/pdx-rico/steamdeck-rus-desktop/master/RusDesk.desktop)
 2. Сохраняем через пункт `Save as` на рабочий стол.
 
 ## Запуск
