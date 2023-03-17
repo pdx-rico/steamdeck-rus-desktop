@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=RusDesk
+Comment=RUS Desktop on Steam Deck
+Exec=curl https://raw.githubusercontent.com/pdx-rico/steamdeck-rus-desktop/master/install_lang.sh | pkexec bash -s --
+Terminal=true
+Type=Application
